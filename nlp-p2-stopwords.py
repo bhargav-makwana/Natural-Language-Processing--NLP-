@@ -31,6 +31,7 @@ for w in words:
         filtered_review.append(w)
 
 print(filtered_review)
+# Comment
 
 """ For example,    Movie review: “The movie was not good at all.”
                     Text after removal of stop words: “movie good”
